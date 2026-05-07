@@ -1,6 +1,6 @@
 print("💚 Health & Wellness ChatBot")
 print("Type 'bye' to exit.\n")
-
+print("What status would you like to check?")
 while True:
     user = input("You: ").lower()
     if user == "hi" or user == "hello":
